@@ -1,0 +1,37 @@
+.data{
+    border-style: double;
+    padding: 3ch;
+}
+.data2{
+    display: inline-block;
+    width: 75%;
+}
+.data3{
+    display: inline-block;
+    vertical-align: top;
+    width: 24%;
+}
+h1{
+    text-align: center;
+}
+.green{
+    color: green;
+}
+.orange{
+    color: orange;
+}
+.blue{
+    color: blue;
+}
+.lightblue{
+    color: lightblue;
+}
+.sea{
+    color: seagreen;
+}
+.teal{
+    color: teal;
+}
+.orange2{
+    color: darkorange;
+}
